@@ -45,8 +45,6 @@ img{
     margin-left: 20px;
 }
 
-
-
 button{
     padding: 6px 15px 6px 15px;
     font-size: 0.8em;
@@ -56,3 +54,8 @@ button{
 a:hover{
     color: var(--seccolor);
 }
+
+
+/* dropdown styling starts from here */
+
+.dr
